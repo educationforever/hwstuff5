@@ -1,5 +1,5 @@
 
-### `WE NEED TO SEEK FUNDING FOR DOMAIN! SEE DOMAIN IDEAS FOR MORE DETAILS`
+### `WE NEED TO SEEK FUNDING FOR DOMAIN! SEE DOMAIN IDEAS FOR MORE DETAILS`  
 ## NautilusOS
 
 NautilusOS is a web-based operating system built entirely in HTML, CSS, and JS.
